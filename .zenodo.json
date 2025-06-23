@@ -1,0 +1,15 @@
+{
+  "title": "Subjective Physics Simulation: Cognitive Projection and Entropy",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Code and data for the article 'Cognitive Projection and Observer Entropy: A Minimal Model of Subjective Physics'.",
+  "license": "MIT",
+  "keywords": ["cognitive observer", "subjective physics", "entropy", "simulation"],
+  "version": "1.0.0",
+  "upload_type": "software"
+}
