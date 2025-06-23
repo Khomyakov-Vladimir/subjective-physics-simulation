@@ -1,0 +1,17 @@
+name: Generate Figures
+
+on: [push]
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install numpy matplotlib
+      - name: Run Simulation
+        run: python main.py 
