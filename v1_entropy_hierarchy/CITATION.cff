@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "This version (v1) is superseded by version 2. Please cite v2 unless reproducing historical results."
+title: "Cognitive Projection and Observer Entropy: A Minimal Model of Subjective Physics"
+authors:
+  - family-names: Khomyakov
+    given-names: Vladimir
+date-released: 2025-06-23
+version: "1.0.0"
+doi: 10.5281/zenodo.15719390
+url: https://doi.org/10.5281/zenodo.15719390
+license: CC-BY-4.0
+type: software
+repository-code: https://github.com/Khomyakov-Vladimir/subjective-physics-simulation
+keywords:
+  - subjective physics
+  - cognitive projection
+  - observer model
+  - entropy
+  - perception
+  - distinguishability
+  - simulation
+  - minimal model
+  - Python
+notes: >
+  This version corresponds to the first implementation of the model and provides reproducible results
+  for a static threshold ε and hierarchical observer structure.
+
+  However, some theoretical assumptions (e.g., projection formalism, dimensionality) have been clarified in version 2 (v2),
+  which introduces adaptive thresholds and a refined model of cognitive entropy.
+
+  For current work and citation, please use version 2:
+  https://doi.org/10.5281/zenodo.15719391
