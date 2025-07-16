@@ -1,0 +1,22 @@
+# requirements.txt
+# Minimal dependencies required to run all computational experiments and simulations 
+# presented in all published versions (v1–v6) of the article:
+# 
+# Khomyakov, V. (2025). Cognitive Projection and Observer Entropy: 
+# A Minimal Model of Subjective Physics. Zenodo. https://doi.org/10.5281/zenodo.15719389
+#
+# Author: Vladimir Khomyakov – https://digitalphysics.ru
+#
+# These dependencies support the core numerical models and visualizations 
+# included in the official Zenodo releases. 
+#
+# Usage: pip install -r requirements.txt
+
+# Core scientific computing
+numpy==2.2.5
+matplotlib==3.10.3
+pandas==2.2.3
+scipy==1.13.1
+
+# Utilities
+tqdm==4.67.1
