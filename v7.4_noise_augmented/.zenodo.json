@@ -1,0 +1,26 @@
+{
+  "title": "Subjective Physics Simulation: Cognitive Projection and Entropy",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Code and data for the article 'Cognitive Projection and Observer Entropy: A Minimal Model of Subjective Physics'. The software is released under the MIT license. The accompanying article (if separately published) may be licensed under CC-BY-4.0.",
+  "license": "MIT",
+  "keywords": [
+    "subjective physics",
+    "cognitive retrodiction",
+    "entropy reduction",
+    "cognitive simulation",
+    "bayesian inference",
+    "damped geodesics",
+    "cognitive potential",
+    "entropy fluctuation",
+    "noise dynamics",
+    "stochastic feedback"
+  ],
+  "version": "7.4",
+  "upload_type": "software"
+}

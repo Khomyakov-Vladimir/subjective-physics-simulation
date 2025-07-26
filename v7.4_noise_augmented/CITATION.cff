@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Cognitive Projection and Observer Entropy: A Minimal Model of Subjective Physics"
+authors:
+  - family-names: Khomyakov
+    given-names: Vladimir
+date-released: 2025-07-27
+version: "7.4"
+doi: 10.5281/zenodo.15719389
+url: https://doi.org/10.5281/zenodo.15719389
+license: MIT
+type: software
+repository-code: https://github.com/Khomyakov-Vladimir/subjective-physics-simulation
+keywords:
+  - subjective physics
+  - cognitive retrodiction
+  - entropy reduction
+  - cognitive simulation
+  - bayesian inference
+  - damped geodesics
+  - cognitive potential
+  - entropy fluctuation
+  - noise dynamics
+  - stochastic feedback
